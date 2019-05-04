@@ -23,6 +23,10 @@ float: right;}
   display: inline;
 }
 
+ a {
+  text-decoration:  none;
+  color: black;
+}
 .custom-header div{
   display: inline;
 }
