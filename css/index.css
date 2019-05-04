@@ -1,0 +1,93 @@
+body {
+  background:#eee;
+  padding:0px;
+  margin:0px;
+}
+
+header {
+  background: #eee;
+  border-bottom:  2px black solid;
+  padding: 25px;
+}
+
+#logo {
+  font-size: 15px;
+  margin: 20px;
+}
+
+.links{
+float: right;}
+.links div{
+
+  margin: 20px;
+  display: inline;
+}
+
+.custom-header div{
+  display: inline;
+}
+
+
+section {
+  padding: 80px 10%;
+}
+
+section h3 {
+  /* border-bottom:  solid 2px orange; */
+
+
+}
+
+section h3:after {
+    border-bottom: 1px solid #282d32;
+
+    /* height: 3px;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    margin-left: -60px; */
+}
+
+.bg-white {
+  background: #fff;
+}
+
+.text-center {
+    text-align:center;
+    font-size: 20px;
+}
+footer {
+  padding: : 10px;
+
+}
+
+#home {
+    height: 70vh;
+}
+
+.main-intro {
+  margin-top: 250px;
+}
+
+#testimonials {
+  text-align:
+}
+
+#testimonials .testimonial {
+  display: inline-block;
+}
+
+.width-30 {
+  width: 32%;
+}
+
+.client-list ul {
+  list-style-type: none;
+
+}
+
+.client-list ul li {
+  margin: 10px 30px;
+  padding: 0;
+  display: inline;
+}
